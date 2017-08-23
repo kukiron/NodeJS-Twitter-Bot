@@ -8,7 +8,7 @@ This bot returns 10 tweets for a specified search query then favorites each of t
 > git clone https://github.com/kukiron/NodeJs-Twitter-Bot.git
 > npm install
 ```
-* Open <code>config.js</code> and change its values - this file will store the configuration details for the Twitter API.
+* Rename the file <code>config.default.js</code> to <code>config.js</code> and then change its values - this file will store the configuration details for the Twitter API.
 ```
 module.exports = {
   consumer_key: '',

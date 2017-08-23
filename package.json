@@ -1,0 +1,23 @@
+{
+  "name": "NodeJS-Twitter-Bot",
+  "version": "1.0.0",
+  "description": "Twitter favorite bot with Node.js",
+  "author": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Twitter API"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukiron/NodeJS-Twitter-Bot.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}

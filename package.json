@@ -1,9 +1,9 @@
 {
   "name": "NodeJS-Twitter-Bot",
   "version": "1.0.0",
-  "description": "Twitter favorite bot with Node.js",
-  "author": "",
-  "main": "app.js",
+  "description": "Twitter favorite & follow bot with Node.js",
+  "author": "Kafil Uddin Kiron",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
